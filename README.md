@@ -1,2 +1,5 @@
 # typescript-template
-TypeScript Repository  Template
+
+## 概要
+
+* TypeScriptのリポジトリテンプレートです。
